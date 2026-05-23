@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vikashdeva
 - 👀 I’m interested in python programming
 - 🌱 I’m currently learning data analytics
-- 💞️ I’m looking forward to do my higher studies
+-  I’m looking forward to do my higher studies
 
 
 <!---
